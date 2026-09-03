@@ -69,5 +69,5 @@ Datasets: [MedMNIST v2](https://medmnist.com/) (Yang et al.) and the
 [ISIC Archive](https://www.isic-archive.com/). Explainability tooling from
 [Captum](https://captum.ai/) and
 [pytorch-grad-cam](https://github.com/jacobgil/pytorch-grad-cam).
-Built for the AI4Imaging Summer School hackathon by the CIR Lab, Medical
+Built for the AI4Imaging Summer School hackathon at the Medical
 University of Vienna.
