@@ -23,8 +23,7 @@ questions on purpose; they are meant for discussion with your group.
 ### Day 1 — `day1_pneumonia_pipeline.ipynb`
 
 A full deep-learning pipeline on **PneumoniaMNIST** ([MedMNIST](https://medmnist.com/)):
-small, pre-packaged chest X-rays labelled *normal* / *pneumonia*, so you spend
-your time on the ideas, not on data wrangling.
+small, pre-packaged chest X-rays labelled *normal* / *pneumonia*.
 
 <p align="center">
   <img src="assets/Day1.png" alt="Day 1 overview: data loading and exploration, model training and evaluation, explainable AI" width="900">
