@@ -26,12 +26,14 @@ A full deep-learning pipeline on **PneumoniaMNIST** ([MedMNIST](https://medmnist
 small, pre-packaged chest X-rays labelled *normal* / *pneumonia*, so you spend
 your time on the ideas, not on data wrangling.
 
-| Session | Topic |
-|---|---|
-| 1 | Data loading & exploration — datasets, preprocessing, visualisation, class balance, `torchvision` / `MONAI` augmentation, a detour into multi-label ChestMNIST |
-| 2 | Training — build a ResNet with `MONAI`, choose loss / optimizer / learning rate, write the training loop, evaluate with AUC, accuracy, F1, sensitivity, specificity |
-| 3 | Interpretation & explainability — Grad-CAM & variants, saliency, guided backprop, latent-space views with PCA / t-SNE, and what "correct" interpretability means |
-| 4 | Optional — multi-label classification and open-ended extensions |
+<p align="center">
+  <img src="assets/Day1.png" alt="Day 1 overview: data loading and exploration, model training and evaluation, explainable AI" width="900">
+</p>
+
+1. **Data loading & exploration** — datasets, preprocessing, visualisation, class balance, `torchvision` / `MONAI` augmentation, a detour into multi-label ChestMNIST.
+2. **Training** — build a ResNet with `MONAI`, choose loss / optimizer / learning rate, write the training loop, evaluate with AUC, accuracy, F1, sensitivity, specificity.
+3. **Interpretation & explainability** — Grad-CAM & variants, saliency, guided backprop, latent-space views with PCA / t-SNE, and what "correct" interpretability means.
+4. **Optional** — multi-label classification and open-ended extensions.
 
 ### Day 2 — `day2_skin_lesion_pipeline.ipynb`
 
