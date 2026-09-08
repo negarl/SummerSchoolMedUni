@@ -40,6 +40,10 @@ A **real-world** dataset: dermatoscopic images from the
 [ISIC Archive](https://www.isic-archive.com/), aggregated across many institutions
 and devices — inconsistent metadata, duplicates, missing values and all.
 
+<p align="center">
+  <img src="assets/Day2_overview.png" alt="Day 2 overview" width="900">
+</p>
+
 1. **Curate** the raw images + `metadata.csv`: inspect, assess quality, clean,
    standardise, split, and export a documented dataset.
 2. **Exercise I — Segmentation.** Train a lesion-segmentation model (U-Net,
